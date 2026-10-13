@@ -20,3 +20,7 @@ Publisher: Shubham Agarwal
 
 ## Privacy
 Read the [privacy policy](privacy/).
+
+---
+
+© 2026 Shubham Agarwal. All rights reserved.
